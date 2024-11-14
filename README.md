@@ -1,5 +1,5 @@
 ## 👋 Merhaba! 👾
-FiveM Geliştiricisi | Yazılım Mühendisi | Oyun Geliştiricisi
+FiveM Geliştiricisi | Oyun Geliştiricisi
 
 🎮 FiveM Sunucu Scriptleri | 💻 Discord Botları | 🌐 Web Uygulamaları
 🚀 Node.js | Discord.js Ve Daha Fazlası
