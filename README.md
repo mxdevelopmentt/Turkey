@@ -50,7 +50,7 @@ Discord Botları
 - [**Twitter**](https://twitter.com/mxdev) 🐦  
 - [**LinkedIn**](https://linkedin.com/in/mxdev) 🔗
 
-![Animation]([https://www.algoritmaornekleri.com/wp-content/uploads/2018/09/progrmalama-nedir-300x245.png)
+![Animation](https://www.algoritmaornekleri.com/wp-content/uploads/2018/09/progrmalama-nedir-300x245.png)
 
 ## 📈 **Ziyaretçi Sayısı:**  
 ![Visitor Count](https://profile-counter.glitch.me/ArentuzaDevelopement/count.svg)
